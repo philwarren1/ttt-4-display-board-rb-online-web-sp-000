@@ -2,8 +2,8 @@
 # out the current state.
 def display_board(board)
 board = [" "," "," "," "," "," "," "," "," "]
-puts row =  "   |   |   "
-break =  "-----------"
+puts row = "   |   |   "
+break = "-----------"
 puts break
 puts row
 puts break
